@@ -1,0 +1,94 @@
+.store{
+    width: 70%;
+    height: 500px;
+    margin:0px 100px 50px 200px;
+    border: 5px dashed pink;
+    padding: 15px;
+}
+.cart{
+    display: inline-block;
+    width: 20%;
+    height: 300px;
+    border: 5px dashed pink;
+    padding: 15px;
+}
+section{
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+h3{
+    text-align: center;
+
+}
+
+div{
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+}
+
+#Pantry{
+   background-color: hsla(60, 100%, 50%, .5);
+   border: 5px solid yellow;
+}
+
+#Cold{
+    background-color: hsla(84, 100%, 59%, .5);
+    border: 5px solid greenyellow;
+}
+
+#Freezer{
+    background-color:hsla(39,100%, 50%, .5) ;
+    border: 5px solid orange;
+}
+
+#Cleaning{
+    background-color: hsla(203, 92%, 75%, .5) ;
+    border: 5px solid lightskyblue;
+}
+
+#Other{
+    background-color: hsla(300, 47%, 75%, .5);
+    border: 5px solid plum;
+}
+
+#p-title{
+    background-color: yellow;
+    color: white;
+    letter-spacing: 2px;
+}
+
+#c-title{
+    background-color: greenyellow;
+    color: white;
+    letter-spacing: 2px;
+}
+
+#f-title{
+    background-color: orange;
+    color: white;
+    letter-spacing: 2px;
+}
+
+#cl-title{
+    background-color: lightskyblue;
+    color: white;
+    letter-spacing: 2px;
+}
+
+#o-title{
+    background-color: plum;
+    color: white;
+    letter-spacing: 2px;
+}
+
+ol{
+    color:hsl(0, 79%, 72%);
+    background-color: hsla(0, 79%, 72%, .2);
+    border: 5px dashed lightcoral;
+    padding-bottom: 10px;
+}
